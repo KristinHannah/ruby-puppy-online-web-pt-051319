@@ -11,7 +11,7 @@ class Dog
   end 
   
   def @@all.clear_all 
-    @@.clear
+    @@all.clear
   end 
   
 end 
