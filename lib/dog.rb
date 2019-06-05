@@ -8,7 +8,7 @@ class Dog
   
   def self.all
     puts @@all
-    @@all 
+    puts 
   end 
   
   def name 
