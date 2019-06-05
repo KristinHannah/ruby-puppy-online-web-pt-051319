@@ -10,4 +10,8 @@ class Dog
     @@all 
   end 
   
+  def @@all.clear_all 
+    
+  end 
+  
 end 
